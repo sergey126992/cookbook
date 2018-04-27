@@ -7,7 +7,7 @@ Work whit Slim Framework 3, PostgreSQL, Eloquent ORM
 * Authentication API
 * View/Create/Update/Delete Cookbooks
 
-   [RealWorld](https://github.com/gothinkster/realworld)
+    git clone https://github.com/sergey126992/cookbook.git
     
 ## Database structure
 Single table PostgreSQL database with users and cookbooks information.
