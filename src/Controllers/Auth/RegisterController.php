@@ -49,6 +49,7 @@ class RegisterController
      * Simple validation registration values
      *
      * @param array $values
+     *
      * @return bool
      */
     public function validate($values): bool
